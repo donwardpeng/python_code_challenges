@@ -40,6 +40,7 @@ class Solution(object):
         print(x_as_string_reversed)
         return (x_as_string == x_as_string_reversed)
         
+        
 if __name__ == "__main__": 
     solution = Solution()
     print('Input: x = 121')
